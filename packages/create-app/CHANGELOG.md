@@ -1,5 +1,16 @@
 # @backstage/create-app
 
+## 0.5.12
+
+### Patch Changes
+
+- 4cca80f: Bumped create-app version.
+- 8db51ca: Bumped create-app version.
+- 778bc48: Bumped create-app version.
+- 1bd4596: Removed the `ts-node` dev dependency.
+- Updated dependencies
+  - @backstage/cli-common@0.1.13
+
 ## 0.5.12-next.2
 
 ### Patch Changes
